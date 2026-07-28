@@ -1,0 +1,30 @@
+{
+  "colorPalette": "electric-blue",
+  "glassSurfaces": false,
+  "glassmorphic": false,
+  "entries": [
+    {
+      "id": "20260725-200956-ma9t",
+      "title": "Vashot Warrior",
+      "commanders": [
+        "Vashot Warrior"
+      ],
+      "dateStart": "2026-07-26T01:09:56.000Z",
+      "dateEnd": "2026-07-26T03:15:00.000Z",
+      "dateLabel": "7/25/2026, 8:09:56 PM - 7/25/2026, 10:15:00 PM",
+      "url": "https://bane-vashot.github.io/BANE_LogsAXI/?report=20260725-200956-ma9t",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 22,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 42,
+        "avgEnemySize": 44
+      }
+    }
+  ]
+}

@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260729-192423-a8ji",
+      "title": "Evo Cuddlebunny",
+      "commanders": [
+        "Evo Cuddlebunny"
+      ],
+      "dateStart": "2026-07-30T00:24:23.000Z",
+      "dateEnd": "2026-07-30T01:52:24.000Z",
+      "dateLabel": "7/29/2026, 7:24:23 PM - 7/29/2026, 8:52:24 PM",
+      "url": "https://bane-vashot.github.io/BANE_LogsAXI/?report=20260729-192423-a8ji",
+      "summary": {
+        "borderlandsPct": 0.8461538461538461,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 10,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 2,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 1,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 33,
+        "avgEnemySize": 37
+      }
+    },
+    {
       "id": "20260728-200811-pr6z",
       "title": "Vashot Warrior",
       "commanders": [

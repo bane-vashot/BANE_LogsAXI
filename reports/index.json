@@ -4,6 +4,44 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260810-133355-qzf4",
+      "title": "Grav Tank",
+      "commanders": [
+        "Grav Tank"
+      ],
+      "guild": {
+        "id": "95708762-3C54-F011-81AC-95DFE50946EB",
+        "name": "Hazardous Guild",
+        "tag": "HZRD"
+      },
+      "dateStart": "2026-08-10T18:33:55.000Z",
+      "dateEnd": "2026-08-10T20:33:42.000Z",
+      "dateLabel": "8/10/2026, 1:33:55 PM - 8/10/2026, 3:33:42 PM",
+      "url": "https://bane-vashot.github.io/BANE_LogsAXI/?report=20260810-133355-qzf4",
+      "summary": {
+        "borderlandsPct": 0.3870967741935484,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 19,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 10,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 2,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 20,
+        "avgEnemySize": 34
+      }
+    },
+    {
       "id": "20260817-203302-fhxu",
       "title": "Vashot Warrior",
       "commanders": [

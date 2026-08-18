@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260817-133335-506h",
+      "title": "Grav Tank",
+      "commanders": [
+        "Grav Tank"
+      ],
+      "guild": {
+        "id": "A2F7B34E-223B-EF11-81A9-8FB5CFBE7766",
+        "name": "Wow Mad",
+        "tag": "MAD"
+      },
+      "dateStart": "2026-08-17T18:33:35.000Z",
+      "dateEnd": "2026-08-17T20:32:40.000Z",
+      "dateLabel": "8/17/2026, 1:33:35 PM - 8/17/2026, 3:32:40 PM",
+      "url": "https://bane-vashot.github.io/BANE_LogsAXI/?report=20260817-133335-506h",
+      "summary": {
+        "borderlandsPct": 0.17391304347826086,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 19,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 4,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 26,
+        "avgEnemySize": 26
+      }
+    },
+    {
       "id": "20260810-133355-qzf4",
       "title": "Grav Tank",
       "commanders": [

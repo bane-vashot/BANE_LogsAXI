@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260824-134506-nyws",
+      "title": "Grav Tank",
+      "commanders": [
+        "Grav Tank"
+      ],
+      "guild": {
+        "id": "00000000-0000-0000-0000-000000000000",
+        "name": null,
+        "tag": null
+      },
+      "dateStart": "2026-08-24T18:45:06.000Z",
+      "dateEnd": "2026-08-24T20:29:59.000Z",
+      "dateLabel": "8/24/2026, 1:45:06 PM - 8/24/2026, 3:29:59 PM",
+      "url": "https://bane-vashot.github.io/BANE_LogsAXI/?report=20260824-134506-nyws",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 19,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 31,
+        "avgEnemySize": 26
+      }
+    },
+    {
       "id": "20260822-201115-uidr",
       "title": "Vashot Warrior",
       "commanders": [

@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260904-212010-nbes",
+      "title": "Vashot Warrior",
+      "commanders": [
+        "Vashot Warrior"
+      ],
+      "guild": {
+        "id": "3C8FE779-F752-4856-AEBE-6AABE18A6C97",
+        "name": "Nightmares Bane",
+        "tag": "BANE"
+      },
+      "dateStart": "2026-09-05T02:20:10.000Z",
+      "dateEnd": "2026-09-05T03:36:16.065Z",
+      "dateLabel": "9/4/2026, 9:20:10 PM - 9/4/2026, 10:36:16 PM",
+      "url": "https://bane-vashot.github.io/BANE_LogsAXI/?report=20260904-212010-nbes",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 21,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 43,
+        "avgEnemySize": 36
+      }
+    },
+    {
       "id": "20260901-201129-3ext",
       "title": "Vashot Warrior",
       "commanders": [

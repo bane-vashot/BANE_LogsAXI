@@ -4,6 +4,44 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260905-202500-3g3o",
+      "title": "Grav Tank",
+      "commanders": [
+        "Grav Tank"
+      ],
+      "guild": {
+        "id": "4291B70C-B528-4F4E-999D-AD3C2A6882E1",
+        "name": "Ehmry Bay Stock Exchange",
+        "tag": "EBAY"
+      },
+      "dateStart": "2026-09-06T01:25:00.000Z",
+      "dateEnd": "2026-09-06T02:56:51.663Z",
+      "dateLabel": "9/5/2026, 8:25:00 PM - 9/5/2026, 9:56:51 PM",
+      "url": "https://bane-vashot.github.io/BANE_LogsAXI/?report=20260905-202500-3g3o",
+      "summary": {
+        "borderlandsPct": 0.9411764705882353,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 15,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 1,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 1,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 35,
+        "avgEnemySize": 44
+      }
+    },
+    {
       "id": "20260904-212010-nbes",
       "title": "Vashot Warrior",
       "commanders": [

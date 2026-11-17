@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261116-203551-3sn0",
+      "title": "Vashot",
+      "commanders": [
+        "Vashot"
+      ],
+      "guild": {
+        "id": "3C8FE779-F752-4856-AEBE-6AABE18A6C97",
+        "name": "Nightmares Bane",
+        "tag": "BANE"
+      },
+      "dateStart": "2026-11-17T02:35:51.000Z",
+      "dateEnd": "2026-11-17T03:37:59.135Z",
+      "dateLabel": "11/16/2026, 8:35:51 PM - 11/16/2026, 9:37:59 PM",
+      "url": "https://bane-vashot.github.io/BANE_LogsAXI/?report=20261116-203551-3sn0",
+      "publishedBy": "bane-vashot",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "World vs World",
+            "value": 25,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 32,
+        "avgEnemySize": 52
+      }
+    },
+    {
       "id": "20261114-200934-miwu",
       "title": "Vashot",
       "commanders": [

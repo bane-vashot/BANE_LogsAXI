@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261118-201948-dcag",
+      "title": "Geira Niell",
+      "commanders": [
+        "Geira Niell"
+      ],
+      "guild": {
+        "id": "9F02DC40-A030-ED11-81AC-95DFE50946EB",
+        "name": "Wölves Of Wär",
+        "tag": "PACK"
+      },
+      "dateStart": "2026-11-19T02:19:48.000Z",
+      "dateEnd": "2026-11-19T03:03:31.381Z",
+      "dateLabel": "11/18/2026, 8:19:48 PM - 11/18/2026, 9:03:31 PM",
+      "url": "https://bane-vashot.github.io/BANE_LogsAXI/?report=20261118-201948-dcag",
+      "publishedBy": "bane-vashot",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "World vs World",
+            "value": 19,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 26,
+        "avgEnemySize": 24
+      }
+    },
+    {
       "id": "20261117-201935-51sk",
       "title": "Vashot",
       "commanders": [

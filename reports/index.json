@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261120-202541-pn5t",
+      "title": "Vashot",
+      "commanders": [
+        "Vashot"
+      ],
+      "guild": {
+        "id": "3C8FE779-F752-4856-AEBE-6AABE18A6C97",
+        "name": "Nightmares Bane",
+        "tag": "BANE"
+      },
+      "dateStart": "2026-11-21T02:25:41.000Z",
+      "dateEnd": "2026-11-21T03:18:28.392Z",
+      "dateLabel": "11/20/2026, 8:25:41 PM - 11/20/2026, 9:18:28 PM",
+      "url": "https://bane-vashot.github.io/BANE_LogsAXI/?report=20261120-202541-pn5t",
+      "publishedBy": "bane-vashot",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "World vs World",
+            "value": 27,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 27,
+        "avgEnemySize": 30
+      }
+    },
+    {
       "id": "20261118-201948-dcag",
       "title": "Geira Niell",
       "commanders": [

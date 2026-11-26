@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261125-191957-ep1j",
+      "title": "Doxmander",
+      "commanders": [
+        "Doxmander"
+      ],
+      "guild": {
+        "id": "9F02DC40-A030-ED11-81AC-95DFE50946EB",
+        "name": "Wölves Of Wär",
+        "tag": "PACK"
+      },
+      "dateStart": "2026-11-26T01:19:57.000Z",
+      "dateEnd": "2026-11-26T02:55:37.556Z",
+      "dateLabel": "11/25/2026, 7:19:57 PM - 11/25/2026, 8:55:37 PM",
+      "url": "https://bane-vashot.github.io/BANE_LogsAXI/?report=20261125-191957-ep1j",
+      "publishedBy": "bane-vashot",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "World vs World",
+            "value": 22,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 24,
+        "avgEnemySize": 30
+      }
+    },
+    {
       "id": "20261124-202056-e7k9",
       "title": "Vashot",
       "commanders": [
